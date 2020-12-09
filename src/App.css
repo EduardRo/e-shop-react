@@ -1,8 +1,9 @@
 .App {
   text-align: center;
 }
-.body {
-  font-family: 'JetBrains+Mono';
+body {
+  font-family: 'JetBrains Mono';
+  padding: 20px 80px;
 }
 
 .App-logo {
