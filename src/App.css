@@ -13,3 +13,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.logo-container {
+  box-sizing: content-box;
+}
